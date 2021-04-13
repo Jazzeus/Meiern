@@ -45,3 +45,4 @@ The rolls can have the following values: (higher values outperform lower ones).
 ### STAR AND WATCH MY REPOSITORIES!
 #### [STAR AND WATCH THEM](https://github.com/JakeGame3?tab=repositories " Star and Watch")
 ****
+*Biggest thank you goes out to L.S.!*
