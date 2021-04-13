@@ -128,10 +128,11 @@ public class Meiern_Mia {
             return (int) Math.floor(Math.random() * 6) + 1; //outputs a random number for the game method
         }
     }
+```
 
 /*#################################################################################################
 ####################################Copyright by JakeGame##########################################
 GITHUB: https://github.com/JakeGame3 ##############################################################
 ABOUT ME: https://github.com/JakeGame3/AboutMe ####################################################
  */
-```
+
