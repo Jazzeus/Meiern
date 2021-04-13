@@ -2,7 +2,7 @@
 ### **Output from the game in the Command Line:**
 ![Meiern](https://user-images.githubusercontent.com/71566988/114567406-831fbf00-9c73-11eb-812e-f0c6b85feb22.gif "Output from the game in the Command Line")
 ****
-A simple program for the (drinking) game "Meier" or "Mia" or "Mäxchen".
+A simple program for the (drinking) game ["Meier" or "Mia" or "Mäxchen"](https://en.wikipedia.org/wiki/Mia_(game)).
 ****
 ## **But what is it all about?**
 Two players (P1 and P2) play the game Meiern against each other,
