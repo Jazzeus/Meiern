@@ -1,3 +1,4 @@
+```java
 import java.util.Scanner;
 
 public class Meiern_Mia {
