@@ -1,4 +1,3 @@
-
 import java.util.Scanner;
 
 public class Meiern_Mia {
@@ -128,7 +127,7 @@ public class Meiern_Mia {
             return (int) Math.floor(Math.random() * 6) + 1; //outputs a random number for the game method
         }
     }
-```
+
 
 /*#################################################################################################
 ####################################Copyright by JakeGame##########################################
