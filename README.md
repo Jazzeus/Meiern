@@ -1,3 +1,3 @@
 # Meiern
 ### **Output from the game in the Command Line:**
-![OutputMeier](https://user-images.githubusercontent.com/71566988/114562699-07237800-9c6f-11eb-8726-6f7fff9206f7.png "Output from the game in the Command Line")
+![Meiern](https://user-images.githubusercontent.com/71566988/114567406-831fbf00-9c73-11eb-812e-f0c6b85feb22.gif "Output from the game in the Command Line")
