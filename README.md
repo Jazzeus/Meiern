@@ -42,7 +42,7 @@ The rolls can have the following values: (higher values outperform lower ones).
 #### [FOLLOW ME ON GITHUB TO STAY TUNED](https://github.com/JakeGame3 "Follow")
 ****
 ### DONATE!
-#### [DONATE HERE](https://paypal.me/conceptblitz "Donate")
+#### [DONATE HERE](https://paypal.me/jakegame3 "Donate")
 ****
 ### STAR AND WATCH MY REPOSITORIES!
 #### [STAR AND WATCH THEM](https://github.com/JakeGame3?tab=repositories " Star and Watch")
